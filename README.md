@@ -1,0 +1,2 @@
+# scaleup-newsletter
+הבינה השבועית
